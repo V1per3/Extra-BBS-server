@@ -1,0 +1,39 @@
+{
+  "name": "ppap.server",
+  "version": "1.0.0",
+  "description": "node koa2 API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppap6/PPAP.server.git"
+  },
+  "keywords": [
+    "koa2",
+    "node",
+    "koa-router"
+  ],
+  "author": "jwchan1996",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ppap6/PPAP.server/issues"
+  },
+  "homepage": "https://github.com/ppap6/PPAP.server#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-jwt": "^3.6.0",
+    "koa-router": "^7.4.0",
+    "mongodb": "^3.2.7",
+    "mysql": "^2.17.1",
+    "nodemailer": "^6.4.6",
+    "saslprep": "^1.0.3",
+    "segmentit": "^2.0.3"
+  },
+  "devDependencies": {}
+}
