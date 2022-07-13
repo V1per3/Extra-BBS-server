@@ -1,5 +1,5 @@
 {
-  "name": "ppap.server",
+  "name": "extra-bbs.server",
   "version": "1.0.0",
   "description": "node koa2 API",
   "main": "app.js",
@@ -8,21 +8,13 @@
     "dev": "nodemon app.js",
     "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ppap6/PPAP.server.git"
-  },
   "keywords": [
     "koa2",
     "node",
     "koa-router"
   ],
-  "author": "jwchan1996",
+  "author": "V1per3",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ppap6/PPAP.server/issues"
-  },
-  "homepage": "https://github.com/ppap6/PPAP.server#readme",
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
     "koa": "^2.7.0",
