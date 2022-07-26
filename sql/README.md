@@ -1,8 +1,6 @@
 <!--
- * @Author: jwchan1996
- * @Date: 2019-05-25 09:07:20
- * @LastEditors: jwchan1996
- * @LastEditTime: 2019-09-28 23:31:37
+ * @Author: V1per3
+ * @Date: 2022-06-25 09:07:20
  -->
 ### 数据表设计
 - 用户表 user
